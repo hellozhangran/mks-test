@@ -1,0 +1,25 @@
+{
+  "name": "mks-test",
+  "version": "1.0.0",
+  "description": "mks发布系统的拆分测试demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellozhangran/mks-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellozhangran/mks-test/issues"
+  },
+  "homepage": "https://github.com/hellozhangran/mks-test#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "fs-extra": "^1.0.0",
+    "glob": "^7.1.1",
+    "jsdom": "^9.8.3"
+  }
+}
